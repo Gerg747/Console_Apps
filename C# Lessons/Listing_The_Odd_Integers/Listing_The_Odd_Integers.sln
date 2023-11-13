@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing_The_Odd_Integers", "Listing_The_Odd_Integers\Listing_The_Odd_Integers.csproj", "{BB2C0C8E-ED8E-4B9D-8458-2F2270DB0338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2C0C8E-ED8E-4B9D-8458-2F2270DB0338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2C0C8E-ED8E-4B9D-8458-2F2270DB0338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2C0C8E-ED8E-4B9D-8458-2F2270DB0338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2C0C8E-ED8E-4B9D-8458-2F2270DB0338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {169AC6BF-640D-43C2-BC41-92FB0F89E763}
+	EndGlobalSection
+EndGlobal

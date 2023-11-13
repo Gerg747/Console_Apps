@@ -1,0 +1,14 @@
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\bin\Debug\net6.0\Switch_Statements.exe
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\bin\Debug\net6.0\Switch_Statements.deps.json
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\bin\Debug\net6.0\Switch_Statements.runtimeconfig.json
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\bin\Debug\net6.0\Switch_Statements.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\bin\Debug\net6.0\Switch_Statements.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\obj\Debug\net6.0\Switch_Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\obj\Debug\net6.0\Switch_Statements.AssemblyInfoInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\obj\Debug\net6.0\Switch_Statements.AssemblyInfo.cs
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\obj\Debug\net6.0\Switch_Statements.csproj.CoreCompileInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\obj\Debug\net6.0\Switch_Statements.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\obj\Debug\net6.0\refint\Switch_Statements.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\obj\Debug\net6.0\Switch_Statements.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\obj\Debug\net6.0\Switch_Statements.genruntimeconfig.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Switch_Statements\Switch_Statements\obj\Debug\net6.0\ref\Switch_Statements.dll

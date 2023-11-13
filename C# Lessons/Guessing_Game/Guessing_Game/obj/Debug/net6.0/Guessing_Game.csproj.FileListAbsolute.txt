@@ -1,0 +1,14 @@
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.AssemblyInfoInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.AssemblyInfo.cs
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.csproj.CoreCompileInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\bin\Debug\net6.0\Guessing_Game.exe
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\bin\Debug\net6.0\Guessing_Game.deps.json
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\bin\Debug\net6.0\Guessing_Game.runtimeconfig.json
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\bin\Debug\net6.0\Guessing_Game.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\bin\Debug\net6.0\Guessing_Game.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\obj\Debug\net6.0\refint\Guessing_Game.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.genruntimeconfig.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Guessing_Game\Guessing_Game\obj\Debug\net6.0\ref\Guessing_Game.dll

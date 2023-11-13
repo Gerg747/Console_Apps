@@ -1,0 +1,14 @@
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\bin\Debug\net6.0\It's_A_Bomb!.exe
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\bin\Debug\net6.0\It's_A_Bomb!.deps.json
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\bin\Debug\net6.0\It's_A_Bomb!.runtimeconfig.json
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\bin\Debug\net6.0\It's_A_Bomb!.dll
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\bin\Debug\net6.0\It's_A_Bomb!.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\obj\Debug\net6.0\It's_A_Bomb!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\obj\Debug\net6.0\It's_A_Bomb!.AssemblyInfoInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\obj\Debug\net6.0\It's_A_Bomb!.AssemblyInfo.cs
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\obj\Debug\net6.0\It's_A_Bomb!.csproj.CoreCompileInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\obj\Debug\net6.0\It's_A_Bomb!.dll
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\obj\Debug\net6.0\refint\It's_A_Bomb!.dll
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\obj\Debug\net6.0\It's_A_Bomb!.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\obj\Debug\net6.0\It's_A_Bomb!.genruntimeconfig.cache
+C:\Users\2013.103281\Desktop\C# Lessons\It's_A_Bomb!\It's_A_Bomb!\obj\Debug\net6.0\ref\It's_A_Bomb!.dll

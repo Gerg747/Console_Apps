@@ -1,0 +1,12 @@
+string Receipt = "***********************************************" +
+"\n -------THANK YOU FOR ORDERING AT GREG'S-------" +
+"\n " + donutAmount + " " + donutSize + " donut(s).         $" + TotaldonutCost + "" +
+"\n " + donutIcing + "         $0.00" +
+"\n " + donutTopping + "         $" + donutToppingcost + " " +
+"\n " + donutDough + "         $" + donutDoughcost + "" +
+"\n Tip:                       " + tip + "%" +
+"\n Cost:                      $" + SemiFinalCost + "" +
+"\n Tax:                       $" + taxes + "" +
+"\n Total:                     $" + FinalCost + "" +
+"\n Address:                   " + Address + "" +
+"\n \n***********************************************";

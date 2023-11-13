@@ -1,0 +1,34 @@
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\bin\Debug\net6.0-windows\Clicker_Game.exe
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\bin\Debug\net6.0-windows\Clicker_Game.deps.json
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\bin\Debug\net6.0-windows\Clicker_Game.runtimeconfig.json
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\bin\Debug\net6.0-windows\Clicker_Game.dll
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\bin\Debug\net6.0-windows\Clicker_Game.pdb
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.Form1.resources
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.csproj.GenerateResource.cache
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.AssemblyInfoInputs.cache
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.AssemblyInfo.cs
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.csproj.CoreCompileInputs.cache
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.dll
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\refint\Clicker_Game.dll
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.pdb
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.genruntimeconfig.cache
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\ref\Clicker_Game.dll
+C:\Users\Greg\Desktop\C# Lessons\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.Properties.Resources.resources
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.dll
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\refint\Clicker_Game.dll
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\bin\Debug\net6.0-windows\Clicker_Game.exe
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\bin\Debug\net6.0-windows\Clicker_Game.deps.json
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\bin\Debug\net6.0-windows\Clicker_Game.runtimeconfig.json
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\bin\Debug\net6.0-windows\Clicker_Game.dll
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\bin\Debug\net6.0-windows\Clicker_Game.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.Form1.resources
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.Properties.Resources.resources
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.csproj.GenerateResource.cache
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.AssemblyInfoInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.AssemblyInfo.cs
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.csproj.CoreCompileInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\Clicker_Game.genruntimeconfig.cache
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Clicker_Game\Clicker_Game\obj\Debug\net6.0-windows\ref\Clicker_Game.dll

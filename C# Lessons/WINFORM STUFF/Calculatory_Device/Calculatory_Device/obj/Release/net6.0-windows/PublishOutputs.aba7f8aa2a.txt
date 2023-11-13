@@ -1,0 +1,6 @@
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Calculatory_Device\Calculatory_Device\bin\Release\net6.0-windows\app.publish\Calculatory_Device.exe
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Calculatory_Device\Calculatory_Device\bin\Release\net6.0-windows\app.publish\Calculatory_Device.dll
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Calculatory_Device\Calculatory_Device\bin\Release\net6.0-windows\app.publish\Calculatory_Device.deps.json
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Calculatory_Device\Calculatory_Device\bin\Release\net6.0-windows\app.publish\Calculatory_Device.runtimeconfig.json
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Calculatory_Device\Calculatory_Device\bin\Release\net6.0-windows\app.publish\Calculatory_Device.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\WINFORM STUFF\Calculatory_Device\Calculatory_Device\bin\Release\net6.0-windows\app.publish\MaterialSkin.dll

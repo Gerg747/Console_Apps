@@ -1,0 +1,14 @@
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\bin\Debug\net6.0\Listing_The_Odd_Integers.exe
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\bin\Debug\net6.0\Listing_The_Odd_Integers.deps.json
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\bin\Debug\net6.0\Listing_The_Odd_Integers.runtimeconfig.json
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\bin\Debug\net6.0\Listing_The_Odd_Integers.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\bin\Debug\net6.0\Listing_The_Odd_Integers.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\obj\Debug\net6.0\Listing_The_Odd_Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\obj\Debug\net6.0\Listing_The_Odd_Integers.AssemblyInfoInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\obj\Debug\net6.0\Listing_The_Odd_Integers.AssemblyInfo.cs
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\obj\Debug\net6.0\Listing_The_Odd_Integers.csproj.CoreCompileInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\obj\Debug\net6.0\Listing_The_Odd_Integers.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\obj\Debug\net6.0\refint\Listing_The_Odd_Integers.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\obj\Debug\net6.0\Listing_The_Odd_Integers.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\obj\Debug\net6.0\Listing_The_Odd_Integers.genruntimeconfig.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Listing_The_Odd_Integers\Listing_The_Odd_Integers\obj\Debug\net6.0\ref\Listing_The_Odd_Integers.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Listing_The_Odd_Integers/1.0.0": {
+        "runtime": {
+          "Listing_The_Odd_Integers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Listing_The_Odd_Integers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

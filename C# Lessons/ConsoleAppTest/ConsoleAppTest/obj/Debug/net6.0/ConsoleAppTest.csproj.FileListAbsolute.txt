@@ -1,0 +1,14 @@
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\bin\Debug\net6.0\ConsoleAppTest.exe
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\bin\Debug\net6.0\ConsoleAppTest.deps.json
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\bin\Debug\net6.0\ConsoleAppTest.runtimeconfig.json
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\bin\Debug\net6.0\ConsoleAppTest.dll
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\bin\Debug\net6.0\ConsoleAppTest.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.AssemblyInfo.cs
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.dll
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\refint\ConsoleAppTest.dll
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.genruntimeconfig.cache
+C:\Users\2013.103281\Desktop\C# Lessons\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ref\ConsoleAppTest.dll

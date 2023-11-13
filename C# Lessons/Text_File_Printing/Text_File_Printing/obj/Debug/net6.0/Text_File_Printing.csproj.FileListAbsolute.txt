@@ -1,0 +1,14 @@
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\bin\Debug\net6.0\Text_File_Printing.exe
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\bin\Debug\net6.0\Text_File_Printing.deps.json
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\bin\Debug\net6.0\Text_File_Printing.runtimeconfig.json
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\bin\Debug\net6.0\Text_File_Printing.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\bin\Debug\net6.0\Text_File_Printing.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\obj\Debug\net6.0\Text_File_Printing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\obj\Debug\net6.0\Text_File_Printing.AssemblyInfoInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\obj\Debug\net6.0\Text_File_Printing.AssemblyInfo.cs
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\obj\Debug\net6.0\Text_File_Printing.csproj.CoreCompileInputs.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\obj\Debug\net6.0\Text_File_Printing.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\obj\Debug\net6.0\refint\Text_File_Printing.dll
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\obj\Debug\net6.0\Text_File_Printing.pdb
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\obj\Debug\net6.0\Text_File_Printing.genruntimeconfig.cache
+C:\Users\2013.103281\Desktop\C# Lessons\Text_File_Printing\Text_File_Printing\obj\Debug\net6.0\ref\Text_File_Printing.dll
